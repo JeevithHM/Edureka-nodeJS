@@ -1,0 +1,17 @@
+[
+    {
+        "projectName": "TransAmerica",
+        "description": "ETL",
+        "project_id": "p01"
+    },
+    {
+        "projectName": "TCS",
+        "description": "Angular",
+        "project_id": "p02"
+    },
+    {
+        "projectName": "Amazon",
+        "description": "Alexa",
+        "project_id": "p03"
+    }
+]
